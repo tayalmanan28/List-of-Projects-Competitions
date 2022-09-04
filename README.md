@@ -6,7 +6,7 @@
 
 | Bone Conducting Headphone  | Paper 3D LOM | Path Planning Kuka Bot | Bezier Curves |
 | ------------- | ------------- | ------------- | ------------- |
-| <a href="/electronics/ti_electronics/README.md#texas-instruments-evaluation-board-electronics"><img src="electronics/ti_electronics/images/ti_eval_board_1.jpg" width="350"></a>| <a href="electronics/micro_driver_electronics/README.md#micro-driver-electronics"><img src="electronics/micro_driver_electronics/images/microdriver_board_v2.jpg" width="270"></a>  | <a href="https://github.com/open-dynamic-robot-initiative/master-board#master-board"><img src="electronics/images/master_board_1.jpg" width="270"></a>  |<a href="electronics/details/details_wiring.md#details-wiring"><img src="electronics/images/encoder_wiring_micro_driver.png" width="270"></a> |
+| <a href="/electronics/ti_electronics/README.md#texas-instruments-evaluation-board-electronics"><img src="https://github.com/tayalmanan28/tayalmanan28.github.io/blob/main/img/Bone_conduction.png" width="350"></a>| <a href="electronics/micro_driver_electronics/README.md#micro-driver-electronics"><img src="electronics/micro_driver_electronics/images/microdriver_board_v2.jpg" width="270"></a>  | <a href="https://github.com/open-dynamic-robot-initiative/master-board#master-board"><img src="electronics/images/master_board_1.jpg" width="270"></a>  |<a href="electronics/details/details_wiring.md#details-wiring"><img src="electronics/images/encoder_wiring_micro_driver.png" width="270"></a> |
 
 | Metal Additive Manufacturing  | Design of Compliant Gripper | Titanium NanoTubes | Student Designed Experiment |
 | ------------- | ------------- | ------------- | ------------- |
