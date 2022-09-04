@@ -16,9 +16,9 @@
 | ------------- | ------------- | ------------- | ------------- |
 | <a href=""><img src="images/metal_add.png" width="270"></a>| <a href=""><img src="images/fc_gripper.png" width="270"></a>  | <a href=""><img src="images/tnt.png" width="270"></a>  |<a href=""><img src="images/sde.png" width="270"></a> |
 
-| Sleep Detector | Mathematical Modelling of Motors | Disassembly Project |  |
+| Sleep Detector | Mathematical Modelling of Motors | Disassembly Project | Smart Glasses(ITSP) |
 | ------------- | ------------- | ------------- | ------------- |
-| <a href=""><img src="images/sleep_detection.png" width="270"></a>| <a href=""><img src="images/motors.png" width="270"></a>  | <a href=""><img src="images/diss_proj.png" width="270"></a>  |<a href=""><img src="images/panacea.png" width="270"></a> |
+| <a href=""><img src="images/sleep_detection.png" width="270"></a>| <a href=""><img src="images/motors.png" width="270"></a>  | <a href=""><img src="images/diss_proj.png" width="270"></a>  |<a href=""><img src="images/smart-glass.png" width="270"></a> |
 
 
 
