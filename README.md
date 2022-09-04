@@ -11,9 +11,9 @@
 - [ ] [Metal Additive Manufacturing](https://docs.google.com/presentation/d/19KLw-CRvMaCQPSGXqd44P0TIlssJ90v2_gtvdTW02Ng/edit#slide=id.p)
 - [ ] [Design of Compliant Gripper]()
 - [ ] [Titanium NanoTubes]()
-- [ ] 
+- [ ] [Student Designed Experiment]()
+- [ ] [Mathematical Modelling of Motors]()
 - [ ] [Disassembly Project](https://docs.google.com/presentation/d/1x9--k5ceChA7rfNUJ0Ouza83KQWaTfdecITDHePwBLI/edit#slide=id.g452cec4887_2_1)
-- [ ] [BLDC Motor Characterisation] 
 
 
 
