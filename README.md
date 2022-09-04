@@ -2,7 +2,7 @@
 
 | Travelling Salesman Problem  | Closed-chain-legged robot with Hybrid-driven Mechanism | Optimizing link lengths of Theo-Jensen's Mechanism |PANACEA|
 | ------------- | ------------- | ------------- | ------------- |
-| <a href=""><img src="images/tsp.png" width="270"></a>| <a href=""><img src="images/Jensen.png" width="270"></a>  | <a href=""><img src="images/Strandbeest.png" width="270"></a>  |<a href=""><img src="images/panacea.png" width="270"></a> |
+| <a href=""><img src="images/tsp.png" width="270"></a>| <a href=""><img src="images/jensen.png" width="270"></a>  | <a href=""><img src="images/Strandbeest.png" width="270"></a>  |<a href=""><img src="images/panacea.png" width="270"></a> |
 
 | Bone Conducting Headphone  | Paper 3D LOM | Path Planning Kuka Bot | Bezier Curves |
 | ------------- | ------------- | ------------- | ------------- |
