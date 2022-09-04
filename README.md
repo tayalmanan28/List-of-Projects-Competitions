@@ -1,5 +1,8 @@
 # List of My Projects
 
+## Projects Done in IISc Bangalore
+
+## Projects Done in IIT Bombay
 | Biped Pybullet | STRIDE BOT (Quadruped) Pybullet | Trajectory Optimisation for Starship Landing | Analysis of Inverted Pendulum | 
 | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://github.com/tayalmanan28/Biped-Pybullet"><img src="images/pybullet-biped.png" width="270"></a>| <a href="https://github.com/tayalmanan28/Stride_bot"><img src="images/pybullet-quadruped.png" width="270"></a>  | <a href="https://github.com/tayalmanan28/StarshipTrajOpt"><img src="images/trajOpt.png" width="270"></a>  |<a href="https://github.com/tayalmanan28/Analysis_of_Inverted_Pendulum"><img src="images/inv-pend.png" width="270"></a> |
@@ -22,9 +25,11 @@
 
 
 
-## Competitions
+# Competitions
 
+## Competitions while in IISc Bangalore
 
+## Competitions while in IIT Bombay
 | FLORENCE (IROS 2021) | CLUTCH ACTUATION ROBOTIC ARM (Bajaj Mach Challenge 2020) | ABU Robocon 2019 | Line Follower Bot (Robotics Club IITB 2018) |
 | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/florence.png" width="270"></a>| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/clutch-arm.png" width="270"></a>  | <a href="https://github.com/STRIDE"><img src="images/robocon.png" width="270"></a>  |<a href="https://github.com/tayalmanan28/Line-Following-bot"><img src="images/line-follower.png" width="270"></a> |
