@@ -27,4 +27,4 @@
 
 | FLORENCE (IROS 2021) | CLUTCH ACTUATION ROBOTIC ARM (Bajaj Mach Challenge 2020) | ABU Robocon 2019 | Line Follower Bot (Robotics Club IITB 2018) |
 | ------------- | ------------- | ------------- | ------------- |
-| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/florence.png" width="270"></a>| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/clutch_arm.png" width="270"></a>  | <a href="https://github.com/STRIDE"><img src="images/robocon.png" width="270"></a>  |<a href="https://github.com/tayalmanan28/Line-Following-bot"><img src="images/line-follower.png" width="270"></a> |
+| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/florence.png" width="270"></a>| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/clutch-arm.png" width="270"></a>  | <a href="https://github.com/STRIDE"><img src="images/robocon.png" width="270"></a>  |<a href="https://github.com/tayalmanan28/Line-Following-bot"><img src="images/line-follower.png" width="270"></a> |
