@@ -1,4 +1,4 @@
-# List of My Projects
+# Projects
 
 ## Projects Done in IISc Bangalore
 
