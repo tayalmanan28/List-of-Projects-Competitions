@@ -1,6 +1,9 @@
 # Projects
 
 ## Projects Done in IISc Bangalore
+| Safe Reinforcement Learning | Offline Reinforcement Learning Using Implicit Q Learning | DCGAN | VAE | 
+| ------------- | ------------- | ------------- | ------------- |
+| <a href="https://github.com/tayalmanan28/Safe_Reinforcement_Learning"><img src="images/sac_rcb.jpg" width="270"></a>| <a href="https://github.com/tayalmanan28/Offline_learning_IQL"><img src="images/Offline_IQL.jpg" width="270"></a>  | <a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/dcgan.jpg" width="270"></a>  |<a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/vae.jpg" width="270"></a> |
 
 ## Projects Done in IIT Bombay
 | Biped Pybullet | STRIDE BOT (Quadruped) Pybullet | Trajectory Optimisation for Starship Landing | Analysis of Inverted Pendulum | 
@@ -28,6 +31,9 @@
 # Competitions
 
 ## Competitions while in IISc Bangalore
+| Safe RLC (IROS 2022) | 
+| ------------- |
+| <a href="https://github.com/tayalmanan28/Florence_IROS_2021_MMH"><img src="images/florence.png" width="270"></a>| 
 
 ## Competitions while in IIT Bombay
 | FLORENCE (IROS 2021) | CLUTCH ACTUATION ROBOTIC ARM (Bajaj Mach Challenge 2020) | ABU Robocon 2019 | Line Follower Bot (Robotics Club IITB 2018) |
