@@ -3,7 +3,7 @@
 ## Projects Done in IISc Bangalore
 | Safe Reinforcement Learning | Offline Reinforcement Learning Using Implicit Q Learning | DCGAN | VAE | 
 | ------------- | ------------- | ------------- | ------------- |
-| <a href="https://github.com/tayalmanan28/Safe_Reinforcement_Learning"><img src="images/sac_rcb.jpg" width="270"></a>| <a href="https://github.com/tayalmanan28/Offline_learning_IQL"><img src="images/Offline_IQL.jpg" width="270"></a>  | <a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/dcgan.jpg" width="270"></a>  |<a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/vae.jpg" width="270"></a> |
+| <a href="https://github.com/tayalmanan28/Safe_Reinforcement_Learning"><img src="images/sac-rcb.jpg" width="270"></a>| <a href="https://github.com/tayalmanan28/Offline_learning_IQL"><img src="images/offline_IQL.jpg" width="270"></a>  | <a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/dcgan.jpg" width="270"></a>  |<a href="https://github.com/tayalmanan28/E1-213_PRNN_Assignments"><img src="images/vae.jpg" width="270"></a> |
 
 ## Projects Done in IIT Bombay
 | Biped Pybullet | STRIDE BOT (Quadruped) Pybullet | Trajectory Optimisation for Starship Landing | Analysis of Inverted Pendulum | 
